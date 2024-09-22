@@ -1,6 +1,24 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Talk+is+cheap+,+show+me+the+code!)\
-:trophy: 二次元游戏《原神》9级萌新 \
-:trophy: MOBA游戏《王者荣耀》8年玩家\
-:trophy: 漫改游戏《火影忍者》暗部皇帝\
-<img src=奥义图。jpg width=300 height=300 />
+🍎会一点儿C\
+🍎会一点儿C++\
+🍎会一点儿Python\
+🍎会一点儿Java\
+🍎会一点儿51单片机\
+🍎会一点儿stm32\
+🍎会一点儿爬虫\
+🍎会一点儿HTML\
+🍎会一点儿MySQL\
+🍎会一点儿汇编\
+🍎会一点儿Linux命令\
+🍎会一点儿Markdown\
+🍎会一点儿PS\
+🍎会一点儿Git\
+🍎会装虚拟机\
+🍎也会用智能手机\
+🍎会不了一点儿GO、C#、PHP\
+:trophy: 180cm\
+:trophy:《原神》60级 \
+:trophy: 最强王者\
+:trophy: 爱玩《火影忍者》\
+<img src=奥义图.jpg width=700 height=450 />
