@@ -1,4 +1,3 @@
-## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Talk+is+cheap+,+show+me+the+code!)\
 🍎会一点儿C\
 🍎会一点儿C++\
