@@ -11,13 +11,9 @@
 🍎会一点儿MySQL\
 🍎会一点儿汇编\
 🍎会一点儿Linux命令\
-🍎会一点儿Markdown\
 🍎会一点儿PS\
-🍎会一点儿Git\
-🍎会一点儿IIC、SPI、CAN、USB、RS-232、RS-485\
 🍎会装虚拟机\
 🍎也会用智能手机\
-🍎会不了一点儿GO、C#、PHP\
 :trophy: 180cm\
 :trophy:《原神》60级 \
 :trophy: 最强王者\
